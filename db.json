@@ -1,0 +1,34 @@
+{
+  "fruits": [
+    {
+      "id": "1",
+      "name": "Manzana",
+      "price": 1000,
+      "category": "Frutas"
+    },
+    {
+      "id": "2",
+      "name": "Naranja",
+      "price": 1500,
+      "category": "Frutas"
+    },
+    {
+      "id": "3",
+      "name": "Banano",
+      "price": 600,
+      "category": "Frutas"
+    },
+    {
+      "id": "4",
+      "name": "Mango",
+      "price": 3000,
+      "category": "Frutas"
+    },
+    {
+      "id": "5",
+      "name": "Piña",
+      "price": 5000,
+      "category": "Frutas"
+    }
+  ]
+}
